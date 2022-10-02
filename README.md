@@ -6,8 +6,17 @@
 - 📫 How to reach me **redissi.mouna@gmail.com**
 
 - ⚡ Fun fact **I love cats more than GitHub .**
+## 📬 Come Say Hi !
 
+- GitHub: [mounaredissi](https://github.com/mounaredissi)
+- LinkedIn: [mouna redissi](https://www.linkedin.com/in/mouna-redissi/)
+- E-mail: redissi.mouna@gmail.com
+
+## 🎧 Last played song
+
+[<img src="https://spotify-now-playing-psi-blond.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31s64f6p5anilghahpe5a4xipdly?si=f49e93b34adb4a1f)
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
