@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps tools (K8S ,Terraform and Mircosoft Azure ), Service Oriented Architecture & Micro-services**
 
-- 📫 How to reach me **redissi.mouna@gmail.com**
+- 📫 How to reach me for more information and resume **redissi.mouna@gmail.com**
 
 - ⚡ Fun fact **I love cats more than GitHub .**
 ## 📬 Come Say Hi !
